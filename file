@@ -54,7 +54,7 @@ function addTask() {
     input.value = ''
 }
 init();
-```
+
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fe636c66-18fa-4dd8-bb92-10da0220efc5/368f77f2-ba91-4656-96db-3ca5ac691d08/Untitled.png)
 
@@ -333,3 +333,5 @@ addEventHandler()
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fe636c66-18fa-4dd8-bb92-10da0220efc5/f6e32e74-daa4-4b0c-a7cf-2953098bde38/Untitled.png)
 
 — สรุป by K’Mook —
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fe636c66-18fa-4dd8-bb92-10da0220efc5/c828390e-b5da-4576-9705-a500dd392996/Untitled.png)

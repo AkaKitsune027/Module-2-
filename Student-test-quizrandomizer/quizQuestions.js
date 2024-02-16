@@ -1,5 +1,3 @@
-//65130500070 วนัสนันท์ ตรีอภิบาลวงศา
-
 const quizQuestions = [
   {
     question: "What is the capital of France?",
